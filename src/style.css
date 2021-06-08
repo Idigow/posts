@@ -1,0 +1,14 @@
+.title{
+text-align: center;
+}
+
+.posts{
+    width: 500px;
+    margin: auto;
+}
+.post{
+    width: 500px;
+    padding: 30px;
+    margin: 50px 0px;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
