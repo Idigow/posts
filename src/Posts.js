@@ -23,6 +23,9 @@ function Posts(props) {
                             <div className="paragraph">
                                 {item.body}
                             </div>
+                            <div className="user-id">
+                                👤 id {item.userId}
+                            </div>
                         </div>
                     )
                 })
