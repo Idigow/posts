@@ -27,7 +27,6 @@ function Posts(props) {
                     )
                 })
             )}
-
         </div>
     );
 }
